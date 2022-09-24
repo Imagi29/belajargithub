@@ -1,0 +1,4 @@
+Forking sebenernya copy repo orang ke repo kita. dengan fork, kita tau ini repo awalnya dari mana gitu.
+kita juga bisa menambahkan fitur-fitur di repo yang telah di forking.
+oh iya, kita juga bisa bikin pull request ke yang punya reponya.
+kalo ada commit dari pemiliknya, kita bisa update ini repo, ngeri juga sih 
